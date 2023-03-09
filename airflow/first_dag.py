@@ -29,4 +29,3 @@ with DAG(
         bash_command="date"
     )
 
-t1 >> t2

@@ -18,3 +18,7 @@ print(message.strip())
 
 print(greeting.removeprefix('Hello'))
 
+universe_age = 14_000_000_000
+print(universe_age)
+
+x, y, z = 0, 0, 0
